@@ -25,6 +25,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Form validations with Bloc + Verify](https://dev.to/danielcardonarojas/form-validations-with-bloc-verify-1aib)
 <!-- BLOG-POST-LIST:END -->
 
 ---
