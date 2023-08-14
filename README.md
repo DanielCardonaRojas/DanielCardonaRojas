@@ -2,8 +2,8 @@
 
 ## I'm a Husband, Father, Developer!
 - Love open source and creating small libraries
+- Vim and Colemak user
 - Currently learning Rust 
-- 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar, also play chess in my spare time.
 
 ### Connect with me:
