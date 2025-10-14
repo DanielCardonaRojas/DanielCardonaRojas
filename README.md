@@ -1,9 +1,9 @@
 ### Hi there, I'm Daniel  👋
 
 ## I'm a Husband, Father, Developer!
+
 - Love open source and creating small libraries
 - Vim and Colemak user
-- Currently learning Rust 
 - ⚡ Fun fact: I love to play guitar, also play chess in my spare time.
 
 ### Connect with me:
