@@ -25,11 +25,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SwiftMocking: Rethinking Test Doubles with Modern Swift](https://dev.to/danielcardonarojas/swiftmocking-rethinking-test-doubles-with-modern-swift-3hoa)
 - [Easy dialog management in Flutter](https://dev.to/danielcardonarojas/easy-dialog-management-in-flutter-559i)
 - [Better Bloc and Cubit Unit Testing](https://dev.to/danielcardonarojas/better-bloc-and-cubit-testing-98p)
 - [Testing Mobx stores in Flutter](https://dev.to/danielcardonarojas/testing-mobx-stores-in-flutter-3m5e)
 - [Easy field masking in Swift](https://dev.to/danielcardonarojas/easy-field-masking-in-swift-2i88)
-- [Form validations with Bloc + Verify](https://dev.to/danielcardonarojas/form-validations-with-bloc-verify-1aib)
 <!-- BLOG-POST-LIST:END -->
 
 ---
